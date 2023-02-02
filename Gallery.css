@@ -25,7 +25,7 @@
 .card-body{
     background-color: #d3ab55 ;
     color: white;
-    margin-left:20%;
+    
 }
 #card{
     padding-left: 8%;
@@ -54,3 +54,17 @@
 .btn {
     width: 7rem;
 }
+.card {
+    
+    background-color: green;
+    transition: transform .2s;
+    width: 80%;
+    height: 80%;
+    margin: 0 auto;
+  }
+  
+  .card:hover {
+    -ms-transform: scale(1.2); /* IE 9 */
+    -webkit-transform: scale(1.2); /* Safari 3-8 */
+    transform: scale(1.2); 
+  }
