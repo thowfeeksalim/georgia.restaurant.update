@@ -1,0 +1,56 @@
+.nav{
+
+    background-color: #d3ab55;
+    
+}
+.navbar-brand-1{
+        font-family: "Dancing Script", cursive;
+        font-size: 50px;
+        font-weight: 300;
+        letter-spacing: 2px;
+        text-transform: capitalize;
+        color:white;
+        text-decoration: none;
+        display: block;
+        margin: 20px;
+        text-align: center;
+        transition: all .5s;
+        padding-left:17%;
+}    
+
+#navbarNavAltMarkup{
+    margin-right: 13%;
+    padding: 1% 1.1%;
+}
+.card-body{
+    background-color: #d3ab55 ;
+    color: white;
+    margin-left:20%;
+}
+#card{
+    padding-left: 8%;
+    padding-right:8%;
+    margin-bottom: 10%;   
+
+}
+/* .card2{
+    margin-left: 3%;
+    margin-right: 3%;
+}
+.card1{
+    margin-right: 8%;
+}
+.card3{
+    margin-left: 8%;
+} */
+.card{
+    margin-left: 11%;
+    border-radius:0rem;
+}
+.bg{
+    background-color: black;
+}
+
+.btn {
+    width: 7rem;
+}
